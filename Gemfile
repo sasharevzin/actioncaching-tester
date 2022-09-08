@@ -46,3 +46,5 @@ group :development do
   # gem "spring"
 end
 
+
+gem "actionpack-action_caching", "~> 1.2"
